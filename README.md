@@ -133,7 +133,9 @@ Open the Gamma PPT link or file included in the repository.
 📬 Contact
 
 For any queries or collaboration opportunities:
+
 Aditya Singh
+
 Email: adityasingh0770@outlook.com
 
 LinkedIn: https://www.linkedin.com/in/adityasingh-it/
